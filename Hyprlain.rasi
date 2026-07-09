@@ -91,6 +91,8 @@ window {
 	background-color: @background;
 	border:           2;
 	padding:          0;
+    width: 740px;
+
 }
 
 mainbox {
@@ -114,7 +116,7 @@ imagebox {
     expand: false;
     width: 300px;
 
-    background-image: url("~/.config/rofi/bruuhhhhhhh.png");
+    background-image: url("~/.config/rofi/Lain4.png");
     background-repeat: false;
 }
 message {
