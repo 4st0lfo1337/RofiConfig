@@ -94,10 +94,29 @@ window {
 }
 
 mainbox {
-	border:  0;
-	padding: 0;
-}
+    orientation: horizontal;
+    children: [ "imagebox", "contentbox" ];
 
+    spacing: 0px;
+    padding: 0px;
+    border: 0;
+}
+contentbox {
+    orientation: vertical;
+    children: [ "inputbar", "listview" ];
+
+    spacing: 0px;
+    padding: 0px;
+
+    expand: true;
+}
+imagebox {
+    expand: false;
+    width: 300px;
+
+    background-image: url("~/.config/rofi/bruuhhhhhhh.png");
+    background-repeat: false;
+}
 message {
 	border:       0px dash 0px 0px ;
 	border-color: @separatorcolor;
