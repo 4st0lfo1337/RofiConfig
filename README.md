@@ -1,2 +1,5 @@
-# RofiConfig
-Serial Experiments Lain inspired config.
+<div>
+Based on these repositories: 
+<li>
+https://github.com/Ascaniolamp/Hyprlain
+<div/>
