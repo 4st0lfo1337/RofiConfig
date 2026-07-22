@@ -1,10 +1,14 @@
+<div align="center">
 
 <img width="100" src="https://github.com/user-attachments/assets/6def7762-b481-45fd-8abf-0c31ba7ffdad" />
 
+</div>
+  
 <div>
 Based on this repository: 
 <li>
 https://github.com/Ascaniolamp/Hyprlain
+  
 <div/>
 
 <br><br>
